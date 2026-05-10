@@ -12,6 +12,10 @@
 
 [Features](#-features) · [Getting Started](#-getting-started) · [Architecture](#-architecture) · [OOP Concepts](#-oop-concepts-used)
 
+<br>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/l250632-cmd/Hospital-Management-System/tree/main)
+
 </div>
 
 ---
@@ -191,11 +195,11 @@ Admin      1    admin123
 
 ## 📄 License
 
-This project was built for academic purposes as part of the Object Oriented Programming course at FAST NUCES, Spring 2026, Section BCS-2A.
+This project was built for academic purposes as part of the Object Oriented Programming course at FAST NUCES, Spring 2026, Section BCS-2G.
 
 ---
 
 <div align="center">
 <b>MediCore Hospital Management System</b><br>
-FAST NUCES · BCS-2A · OOP · Spring 2026
+FAST NUCES · BCS-2G · OOP · Spring 2026
 </div>
