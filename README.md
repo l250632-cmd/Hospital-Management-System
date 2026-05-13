@@ -195,7 +195,7 @@ Admin      1    admin123
 
 ## 📄 License
 
-This project was built for academic purposes as part of the Object Oriented Programming course at FAST NUCES, Spring 2026, Section BCS-2G.
+This project was built for academic purposes as part of the Object Oriented Programming course at FAST NUCES, Spring 2026, Section BCS-2A.
 
 ---
 
