@@ -201,5 +201,5 @@ This project was built for academic purposes as part of the Object Oriented Prog
 
 <div align="center">
 <b>MediCore Hospital Management System</b><br>
-FAST NUCES · BCS-2G · OOP · Spring 2026
+FAST NUCES · BCS-2A · OOP · Spring 2026
 </div>
